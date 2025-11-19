@@ -124,7 +124,7 @@ when inputs are noisy."
 
     @article{iqbal2025citation,
       title={Interpretable Sparse Rationale Extraction for Citation Influence Classification},
-      author={Arshad Iqbak},
+      author={Arshad Iqbal},
       year={2025}
     }
 
