@@ -105,10 +105,7 @@ python training/train.py --disable_sparsity
 python training/train.py --disable_structure
 ```
 
-## 🖥️ Streamlit Demo
 
-``` bash
-streamlit run demo/app.py
 ```
 
 ## 📈 Example Output
