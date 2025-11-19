@@ -85,7 +85,7 @@ huggingface-cli download allenai/scibert_scivocab_uncased
 ### 4. Train the Model
 
 ``` bash
-python training/train.py     --dataset acl_arc     --model scibert     --sparsity 0.07     --batch_size 8
+python training/train.py     --dataset acl_arc, Scicite     --model scibert     --sparsity 0.07     --batch_size 8
 ```
 
 ### 5. Evaluate Performance
@@ -125,9 +125,9 @@ when inputs are noisy."
 
 ## 📝 Citation
 
-    @article{your2025citation,
+    @article{iqbal2025citation,
       title={Interpretable Sparse Rationale Extraction for Citation Influence Classification},
-      author={Your Name},
+      author={Arshad Iqbak},
       year={2025}
     }
 
